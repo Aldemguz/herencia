@@ -21,8 +21,8 @@ public class Coche {
     }
     
     public String dime_datos_generales(){
-        return "ruedas: "+ruedas+", largo: "+largo/1000+"mts, ancho: "+ancho/1000+
-                "mts, peso: "+peso_plataforma;
+        return "ruedas: "+ruedas+", largo: "+largo/1000+"mts, ancho: "+ancho+
+                "cms, peso: "+peso_plataforma+" kg";
     }
     
     public void establece_color(String color_coche){
