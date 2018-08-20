@@ -18,6 +18,10 @@ public class Empleado {
         nextid++;
     }
     
+    public Empleado(String nombre){
+        this(nombre,3000,2000,01,01);
+    }
+    
     public String dimeNombre(){ //Getter
         return nombre;
     }
