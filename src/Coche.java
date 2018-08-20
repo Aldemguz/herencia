@@ -1,5 +1,5 @@
 /*
- Fefinicion de un coche
+ Definicion de un coche
  * @author aldemaro
  */
 public class Coche {
