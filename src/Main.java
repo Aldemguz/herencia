@@ -1,5 +1,5 @@
 /*
- Probando herencias, video 40. codigo facilito
+ Probando herencias, video 40. Pildoras Informaticas
  * @author aldemaro
  */
 public class Main {
